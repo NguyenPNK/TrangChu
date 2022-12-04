@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_home"
+        android:title="@string/action_home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:id="@+id/action_chat"
+        android:title="@string/action_chat"
+        android:icon="@drawable/ic_baseline_chat_bubble_24"/>
+    <item android:id="@+id/action_cart"
+        android:title="@string/action_cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+    <item android:id="@+id/action_coupom"
+        android:title="@string/action_coupon"
+        android:icon="@drawable/ic_baseline_local_activity_24"/>
+    <item android:id="@+id/action_account"
+        android:title="@string/action_account"
+        android:icon="@drawable/ic_baseline_account_circle_24"/>
+</menu>
